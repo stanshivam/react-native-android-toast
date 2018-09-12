@@ -1,0 +1,23 @@
+{
+  "name": "react-native-android-toast",
+  "version": "1.0.0",
+  "description": "Android Toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanshivam/react-native-android-toast.git"
+  },
+  "keywords": [
+    "react-native",
+    "android toast"
+  ],
+  "author": "Shivam",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/stanshivam/react-native-android-toast/issues"
+  },
+  "homepage": "https://github.com/stanshivam/react-native-android-toast#readme"
+}
